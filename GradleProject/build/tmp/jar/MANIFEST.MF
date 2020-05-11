@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: GradleProject
+Implementation-Version: 1.0
+Main-Class: gradleProject.App
+
